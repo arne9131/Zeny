@@ -7,5 +7,5 @@ b. Every zeny is backed by a commodity controlled by the decentralized actor. Th
 
 The condition b. provides Zeny an intrinsic value and enforced exchange rate from zeny to that x amount of time brings advantages of extrinsic value.
 
-The first draft of the concept is available at
-https://github.com/arne9131/Zeny/blob/master/Zeny_Next_generation_Money%20(2).pdf
+The second draft of the concept is available at
+https://github.com/arne9131/Zeny/blob/master/Zeny.pdf
